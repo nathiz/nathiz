@@ -29,11 +29,23 @@
       src="https://github.com/tandpfun/skill-icons/blob/main/icons/Eclipse-Dark.svg">
     <img align="center" alt="hibernate" height="40" width="50"
       src="https://github.com/tandpfun/skill-icons/blob/main/icons/Hibernate-Dark.svg">
-    <img align="center" alt="github" height="40" width="50"
+    <img align="center" alt="git" height="40" width="50"
       src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg">
-    <img align="center" alt="hibernate" height="40" width="50"
+    <img align="center" alt="github" height="40" width="50"
       src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg">
-    <img align="center" alt="hibernate" height="40" width="50"
+    <img align="center" alt="gitlab" height="40" width="50"
       src="https://github.com/tandpfun/skill-icons/blob/main/icons/GitLab-Dark.svg">
-    
+    <img align="center" alt="VSCode" height="40" width="50"
+      src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg">
+    <img align="center" alt="VisualStudio" height="40" width="50"
+      src="https://github.com/tandpfun/skill-icons/blob/main/icons/VisualStudio-Dark.svg">
+    <img align="center" alt="Spring" height="40" width="50"
+      src="https://github.com/tandpfun/skill-icons/blob/main/icons/Spring-Dark.svg">
+    <img align="center" alt="Python" height="40" width="50"
+      src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg">
+    <img align="center" alt="Postman" height="40" width="50"
+      src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg">
+    <img align="center" alt="Maven" height="40" width="50"
+      src="https://github.com/tandpfun/skill-icons/blob/main/icons/Maven-Dark.svg">
+          
 </div>
