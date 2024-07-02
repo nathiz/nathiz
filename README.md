@@ -1,4 +1,11 @@
-## Hi there 👋
+<!-- markdownlint-disable MD033 MD041 -->
+<p align="center">
+  <h3 align="center">Nathalia Furigo</h3>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Seja Bem vindo ao Meu Mundo !!!;&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=100" alt="Example Usage - README Typing SVG">
+</p>
 
 <!--
 **nathiz/nathiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
