@@ -1,10 +1,16 @@
 <!-- markdownlint-disable MD033 MD041 -->
-<h3 align="center" width=600& height=10 color=f75c7e>Nathalia Furigo</h3>&#8287;&#8287;&#8287;&#8287;&#8287;
-<p align="center">
+<h3 align="center">Nathalia Furigo</h3>
+<!-- <p align="center">
   <a>
     <img src="https://readme-typing-svg.demolab.com/?lines=Desenvolvedora Back-end Júnior Java/.NET&font=Fira%20Code&center=true&width=600&height=20&color=f75c7e&vCenter=true&pause=1000&size=20"/>          
   </a>&#8287;&#8287;&#8287;&#8287;&#8287;
-</p>
+</p> -->
+
+- 🙋🏻‍♀️ Tenho 23 anos e sou de Guarulhos-SP, 
+- 📚 Estudando Java e .NET,
+- 🎓 Graduada em Análise e Desenvolvimento de Sistemas,
+- :computer: Atualmente trabalho home office como desenvolvedora Jr para o TJ-PA pela Qintess,
+ 
 
 <div align="center">
   <div style="display: inline_block"><br>
