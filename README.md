@@ -1,10 +1,5 @@
 <!-- markdownlint-disable MD033 MD041 -->
 <h3 align="center">Nathalia Furigo</h3>
-<!-- <p align="center">
-  <a>
-    <img src="https://readme-typing-svg.demolab.com/?lines=Desenvolvedora Back-end Júnior Java/.NET&font=Fira%20Code&center=true&width=600&height=20&color=f75c7e&vCenter=true&pause=1000&size=20"/>          
-  </a>&#8287;&#8287;&#8287;&#8287;&#8287;
-</p> -->
 
 - 🙋🏻‍♀️ Tenho 23 anos e sou de Guarulhos-SP, 
 - 📚 Estudando Java e .NET,
@@ -16,21 +11,7 @@
   <div style="display: inline_block"><br>
     <a href="https://www.linkedin.com/in/nathalia-furigo-968136113">
       <img align="center" alt="LinkedIn" height="40" width="40" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/>
-    </a
-    <img align="center" alt="Angular" height="40" width="50" 
-     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
-    <img align="center" alt="HTML" height="40" width="50"
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" alt="CSS" height="40" width="50"
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" alt="bootstrap" height="40" width="50"
-      src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg">
-    <img align="center" alt="cs" height="40" width="50"
-      src="https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg">
-    <img align="center" alt="Dotnet" height="40" width="50"
-      src="https://github.com/tandpfun/skill-icons/blob/main/icons/DotNet.svg">
-    <img align="center" alt="Java" height="40" width="50" 
-      src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg">
+    </a>
     <img align="center" alt="eclipse" height="40" width="50"
       src="https://github.com/tandpfun/skill-icons/blob/main/icons/Eclipse-Dark.svg">
     <img align="center" alt="hibernate" height="40" width="50"
@@ -53,6 +34,16 @@
       src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg">
     <img align="center" alt="Maven" height="40" width="50"
       src="https://github.com/tandpfun/skill-icons/blob/main/icons/Maven-Dark.svg">
+
+
+|      Linguagens       |      Ferramentas       |
+|-----------------------|------------------------|
+|<img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"> | <img align="center" height="40" width="50"      src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg"> |
+|<img align="center" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> | 
+|<img align="center" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> | 
+|<img align="center" height="40" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg"> | 
+|<img align="center" alt="Dotnet" height="40" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/DotNet.svg"> | 
+|<img align="center" height="40" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg"> | 
           
 </div>
 <div>
