@@ -23,6 +23,6 @@
 ---------------------------------------------
 
 <div>
-    <img height="140em" src="https://github-readme-stats.vercel.app/api?username=nathiz&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-    <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathiz&layout=compact&langs_count=16&theme=midnight-purple"/>
+    <img height="120em" src="https://github-readme-stats.vercel.app/api?username=nathiz&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+    <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathiz&layout=compact&langs_count=16&theme=midnight-purple"/>
 </div>
