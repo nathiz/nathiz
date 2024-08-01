@@ -11,8 +11,8 @@
 
 ---------------------------------------------   
 
-|      Linguagens       |      Ferramentas       |      IDE e Versionamento     |
-|-----------------------|------------------------|------------------------------|
+|      📚 Linguagens       |      🛠️ Ferramentas        |     🚀 IDE e Versionamento     |
+|--------------------------|----------------------------|---------------------------------|
 | <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"> | <img align="center" height="40" width="50"      src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg"> |  <img align="center" height="40" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Eclipse-Dark.svg"> |
 | <img align="center" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> | <img align="center" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> | <img align="center" height="40" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg"> |
 | <img align="center" height="40" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg"> | <img align="center" height="40" width="50"  src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg"> | <img align="center" height="40" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/VisualStudio-Dark.svg"> |
@@ -22,7 +22,15 @@
 
 ---------------------------------------------
 
+## 📊 GitHub Stats
+
 <div>
     <img height="120em" src="https://github-readme-stats.vercel.app/api?username=nathiz&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
     <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathiz&layout=compact&langs_count=16&theme=midnight-purple"/>
 </div>
+
+-----------------------------------------------
+
+## 🔥 GitHub Streak
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=nathiz&theme=midnight-purple&background=000&border=8300ff&dates=FFF)](https://git.io/streak-stats)
