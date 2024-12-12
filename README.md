@@ -9,6 +9,12 @@
 <a href = "mailto:furinathi@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/nathalia-furigo-968136113/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
+<img align="center" height="40" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Instagram.svg"> <https://github.com/tandpfun/skill-icons/blob/main/icons/Discord.svg">
+
+<svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" width="100" height="100" viewBox="0 0 24 24">
+    <path d="M2,2v20h20V2H2z M4.75,11.375H6V6H4.75V4.375H9V6H7.75v5.375H9V13H4.75V11.375z M11.5,19.25H4V18h7.5V19.25z M16,9.875 c0,1.125-0.25,3.25-3,3.25c-1.5,0-2.315-0.902-2.625-1.271l1.154-1.319c0.208,0.231,0.721,0.84,1.471,0.84 c1.125,0,1.125-1.125,1.125-1.5v-5.5H16V9.875z"></path>
+</svg>
+
 ---------------------------------------------   
 
 |      📚 Linguagens       |      🛠️ Ferramentas        |     🚀 IDE e Versionamento     |
@@ -18,7 +24,9 @@
 | <img align="center" height="40" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg"> | <img align="center" height="40" width="50"  src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg"> | <img align="center" height="40" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/VisualStudio-Dark.svg"> |
 | <img align="center" height="40" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/DotNet.svg"> | <img align="center" height="40" width="50"      src="https://github.com/tandpfun/skill-icons/blob/main/icons/Maven-Dark.svg"> |  <img align="center" height="40" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg"> |
 | <img align="center" height="40" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg"> | <img align="center" height="40" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Spring-Dark.svg"> | <img align="center" height="40" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg"> |
-| <img align="center" height="40" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg"> | <img align="center" height="40" width="50"      src="https://github.com/tandpfun/skill-icons/blob/main/icons/Hibernate-Dark.svg"> | <img align="center" height="40" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/GitLab-Dark.svg"> |
+| | <img align="center" height="40" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg"> | <img align="center" height="40" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/IntelliJIDEA-Dark.svg"> |
+| | <img align="center" height="40" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Dark.svg"> | |
+| | <img align="center" height="40" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/VueJS-Dark.svg"> | |
 
 ---------------------------------------------
 
