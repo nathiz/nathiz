@@ -4,7 +4,7 @@
 - 🙋🏻‍♀️ *Tenho 24 anos e sou de Guarulhos-SP,* 
 - 📚 *Estudando Java e .NET,*
 - 🎓 *Graduada em Análise e Desenvolvimento de Sistemas,*
-- :computer: *Atualmente trabalho home office como desenvolvedora Jr para o TJ-PA pela Qintess.*
+- :computer: *Trabalhei home office como desenvolvedora Jr para o TJ-PA pela Qintess.*
 
 <a href = "mailto:furinathi@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/nathalia-furigo-968136113/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
