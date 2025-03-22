@@ -6,6 +6,8 @@
 - 🎓 *Graduada em Análise e Desenvolvimento de Sistemas,*
 - :computer: *Trabalhei home office como desenvolvedora Jr para o TJ-PA pela Qintess.*
 
+- Meu currículo https://drive.google.com/file/d/1r93CLgxw3E3YgU6cNqPmQOu1XhjfUiJ2/view?usp=drive_link
+
 <a href = "mailto:furinathi@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/nathalia-furigo-968136113/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
