@@ -11,7 +11,7 @@
 - 💼 Desenvolvedora com experiência prática em projetos pessoais, acadêmicos e manutenção de sistemas no **Tribunal de Justiça do Pará (TJ-PA)**.
 - 🚀 Foco em desenvolvimento backend com **Java (Spring Boot)** e **.NET (C#)**, além de frontend com **React, Angular e Vue.js**.
 - 🎯 Proativa, autodidata e pronta para desafios técnicos. Aberta a testes técnicos e oportunidades de crescimento.
-- 💼 Meu currículo https://drive.google.com/file/d/1bfgWB9BBDNpl0kloxX3N0no7cJhxchZ4/view?usp=sharing
+- 💼 Meu currículo: [Acesse aqui](https://drive.google.com/file/d/1bfgWB9BBDNpl0kloxX3N0no7cJhxchZ4/view?usp=sharing)
 
 ---
 
@@ -69,7 +69,10 @@
   <img src="https://img.shields.io/badge/POO-607D8B?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
   <img src="https://img.shields.io/badge/Testes%20(JUnit)-25A162?style=for-the-badge&logo=junit5&logoColor=white" />
+  <img src="https://img.shields.io/badge/Mockito-CA2134?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" />
+  <img src="https://img.shields.io/badge/Lombok-EA4C10?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/MapStruct-6DB33F?style=for-the-badge&logo=java&logoColor=white" />
 </p>
 
 ---
@@ -78,6 +81,7 @@
 
 | Projeto              | Tecnologias                      | Descrição rápida                                                                                   |
 |----------------------|----------------------------------|-----------------------------------------------------------------------------------------------------|
+| LojaManoel (Empacotamento) | Java 17, Spring Boot, PostgreSQL, Docker, Swagger | API RESTful para gestão de pedidos e empacotamento com testes automatizados e documentação |
 | Projeto Talento      | React, Node.js, Axios            | Sistema completo com cadastro de candidatos e integração com API externa de CEP                    |
 | Company Back / Front | React, TypeScript, Express       | Portal de talentos com autenticação e arquitetura separada por backend e frontend                  |
 | Desafios Java        | Java, Spring Boot, JPA           | Repositório com múltiplos desafios técnicos e projetos práticos usando Spring                      |
@@ -93,6 +97,7 @@
 - 📧 Email profissional: *furinathi@gmail.com*
 
 ---
+
 ## 📊 GitHub Stats
 
 <div>
@@ -101,6 +106,7 @@
 </div>
 
 ---
+
 🔥 GitHub Streak
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=nathiz&theme=midnight-purple&background=000&border=8300ff&dates=FFF)](https://git.io/streak-stats)
