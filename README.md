@@ -11,7 +11,7 @@
 - 💼 Desenvolvedora com experiência prática em projetos pessoais, acadêmicos e manutenção de sistemas no **Tribunal de Justiça do Pará (TJ-PA)**.
 - 🚀 Foco em desenvolvimento backend com **Java (Spring Boot)**.
 - 🎯 Proativa, autodidata e pronta para desafios técnicos. Aberta a testes técnicos e oportunidades de crescimento.
-- 📄 [Meu currículo](https://drive.google.com/file/d/1bfgWB9BBDNpl0kloxX3N0no7cJhxchZ4/view?usp=sharing)
+- 📄 [Meu currículo](https://drive.google.com/file/d/1zrn1HDmsanMbOjql1x8_14zwww6A4jeh/view?usp=sharing)
 
 ---
 
