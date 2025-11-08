@@ -1,16 +1,16 @@
 <h1 align="center">Olá, eu sou a Nathalia 👋</h1>
 
 <p align="center">
-  Desenvolvedora Fullstack | Java • C# • JavaScript | Spring Boot • .NET • React • Angular
+  Desenvolvedora BackEnd | Java • C# • JavaScript | Spring Boot • .NET • React • Angular
 </p>
 
 ---
 
 ### 👩‍💻 Sobre mim
 
-- 💼 Desenvolvedora com experiência prática em projetos pessoais, acadêmicos e manutenção de sistemas no **Tribunal de Justiça do Pará (TJ-PA)**.
-- 🚀 Foco em desenvolvimento backend com **Java (Spring Boot)**.
-- 🎯 Proativa, autodidata e pronta para desafios técnicos. Aberta a testes técnicos e oportunidades de crescimento.
+- 💼 Desenvolvedora com experiência prática em projetos pessoais, acadêmicos e manutenção de sistemas no **Tribunal de Justiça do Pará (TJ-PA)** e ** Tecnolog Express Cargo **.
+- 🚀 Foco em desenvolvimento backend com **Java (Spring Boot) e C#**.
+- 🎯 Proativa, pronta para desafios técnicos. Aberta a testes técnicos e oportunidades de crescimento.
 - 📄 [Meu currículo](https://drive.google.com/file/d/1zrn1HDmsanMbOjql1x8_14zwww6A4jeh/view?usp=sharing)
 
 ---
@@ -75,8 +75,9 @@
 
 ### 🚀 Tecnologias que Aprendi e Apliquei
 
-✅ Java 17, Spring Boot 3.5, Spring Data JPA  
-✅ PostgreSQL, MySQL, H2  
+✅ Java 17, Spring Boot 3.5, Spring Data JPA
+✅ C#, .NET 4
+✅ PostgreSQL, MySQL, H2, SQL Server  
 ✅ Swagger, Lombok, DTOs  
 ✅ Arquitetura em camadas e Clean Architecture  
 ✅ JUnit 5, MockMvc, Testcontainers  
