@@ -8,7 +8,7 @@
 
 ### 👩‍💻 Sobre mim
 
-- 💼 Desenvolvedora com experiência prática em projetos pessoais, acadêmicos e manutenção de sistemas no **Tribunal de Justiça do Pará (TJ-PA)** e ** Tecnolog Express Cargo **.
+- 💼 Desenvolvedora com experiência prática em projetos pessoais, acadêmicos e manutenção de sistemas no **Tribunal de Justiça do Pará (TJ-PA)** e **Tecnolog Express Cargo**.
 - 🚀 Foco em desenvolvimento backend com **Java (Spring Boot) e C#**.
 - 🎯 Proativa, pronta para desafios técnicos. Aberta a testes técnicos e oportunidades de crescimento.
 - 📄 [Meu currículo](https://drive.google.com/file/d/1zrn1HDmsanMbOjql1x8_14zwww6A4jeh/view?usp=sharing)
